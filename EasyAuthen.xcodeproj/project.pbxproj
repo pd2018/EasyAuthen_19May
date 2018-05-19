@@ -12,6 +12,9 @@
 		CC08FC0020B001D9001B7EC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC08FBFE20B001D9001B7EC6 /* Main.storyboard */; };
 		CC08FC0220B001DA001B7EC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC08FC0120B001DA001B7EC6 /* Assets.xcassets */; };
 		CC08FC0520B001DA001B7EC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC08FC0320B001DA001B7EC6 /* LaunchScreen.storyboard */; };
+		CCDAEAE020B0109800101124 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = CCDAEADD20B0109700101124 /* logo.png */; };
+		CCDAEAE120B0109800101124 /* password.png in Resources */ = {isa = PBXBuildFile; fileRef = CCDAEADE20B0109700101124 /* password.png */; };
+		CCDAEAE220B0109800101124 /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = CCDAEADF20B0109800101124 /* user.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		CC08FC0120B001DA001B7EC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC08FC0420B001DA001B7EC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC08FC0620B001DA001B7EC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCDAEADD20B0109700101124 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		CCDAEADE20B0109700101124 /* password.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = password.png; sourceTree = "<group>"; };
+		CCDAEADF20B0109800101124 /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				CC08FBFC20B001D9001B7EC6 /* ViewController.swift */,
 				CC08FBFE20B001D9001B7EC6 /* Main.storyboard */,
 				CC08FC0120B001DA001B7EC6 /* Assets.xcassets */,
+				CCDAEADD20B0109700101124 /* logo.png */,
+				CCDAEADE20B0109700101124 /* password.png */,
+				CCDAEADF20B0109800101124 /* user.png */,
 				CC08FC0320B001DA001B7EC6 /* LaunchScreen.storyboard */,
 				CC08FC0620B001DA001B7EC6 /* Info.plist */,
 			);
@@ -122,7 +131,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCDAEAE020B0109800101124 /* logo.png in Resources */,
 				CC08FC0520B001DA001B7EC6 /* LaunchScreen.storyboard in Resources */,
+				CCDAEAE220B0109800101124 /* user.png in Resources */,
+				CCDAEAE120B0109800101124 /* password.png in Resources */,
 				CC08FC0220B001DA001B7EC6 /* Assets.xcassets in Resources */,
 				CC08FC0020B001D9001B7EC6 /* Main.storyboard in Resources */,
 			);
